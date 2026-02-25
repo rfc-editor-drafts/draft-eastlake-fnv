@@ -1,3 +1,25 @@
 {
-  "publications": []
+  "publications": [
+    {
+      "rfcNumber": 9923,
+      "files": [
+        {
+          "path": "rfc9923.html",
+          "type": "html"
+        },
+        {
+          "path": "rfc9923.txt",
+          "type": "txt"
+        },
+        {
+          "path": "rfc9923.xml",
+          "type": "xml"
+        }
+        {
+          "path": "rfc9923.pdf",
+          "type": "pdf"
+        }
+      ]
+    }
+  ]
 }
