@@ -1,2 +1,2 @@
-# base-template
-Base template repository for drafts
+# draft-eastlake-fnv
+Purple publication test
